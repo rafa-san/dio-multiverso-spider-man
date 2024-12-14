@@ -141,8 +141,8 @@ body::before {
   width: 50%;
 }
 
-/* Hover Animation */
 
+/* Hover Animation */
 .s-card--hovered .s-card__background {
   cursor: pointer;
   opacity: 0;

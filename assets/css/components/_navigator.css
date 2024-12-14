@@ -1,10 +1,10 @@
 .navigator {
-  height: 80vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
   position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+  width: 100%;
 }
 
 .navigator ul li {
@@ -19,25 +19,25 @@
   margin-bottom: 0;
 }
 
-.navigator ul li a{
-  color: white;
-  border: solid 2px white;
-  width:45px;
-  height:45px;
-  border-radius: 50%;
-  background-color: black;
+.navigator ul li a {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: black;
+  border: solid 2px white;
+  border-radius: 50%;
+  color: white;
+  height: 45px;
+  width: 45px;
 }
 
 .navigator::before {
-  content: '';
   position: absolute;
   top: 0;
-  width: 2px;
-  height: 100%;
   background-color: white;
+  content: '';
+  height: 100%;
+  width: 2px;
   z-index: 0;
 }
 
@@ -47,11 +47,11 @@
 
 .navigator ul li a:hover, 
 .navigator ul li a.active {
-  color: var(--primary-color);
   background-color: white;
+  color: var(--primary-color);
 }
 
-.navigator .navigator__icon{
+.navigator .navigator__icon {
   position: absolute;
   top: -20px;
 }

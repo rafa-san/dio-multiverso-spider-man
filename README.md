@@ -1,6 +1,6 @@
 ![Badge](https://img.shields.io/badge/DIGITAL%20INNOVATION%20ONE-BB2649?style=for-the-badge)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" />&nbsp;&nbsp;&nbsp;![Badge](https://img.shields.io/badge/PROJETO-COM%20MENTORIA-FF6F61?style=for-the-badge)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" />
 
-# Ri Happy - Front-end do Zero | #8 Multiverso Spider-Man
+# Ri Happy - Front-end do Zero #8 | Multiverso Spider-Man
 
 ## 1️⃣ Objetivo
 Desenvolver uma página inspirada no multiverso do filme *Homem-Aranha: Sem Volta para Casa*, utilizando HTML, CSS e JavaScript.
@@ -51,7 +51,7 @@ Este projeto foi desenvolvido conforme as orientações do curso, sem alteraçõ
 </div>
 
 ## 5️⃣ Créditos
-Agradeço aos instrutores Diogo Mainardes e Michele Ambrosio e à equipe da DIO pelo conteúdo de alta qualidade, que contribuiu demais para o meu aprendizado e para a construção do meu portfólio.
+Agradeço aos instrutores **Diogo Mainardes** e **Michele Ambrosio** e à equipe da **DIO** pelo conteúdo de altíssima qualidade, que contribuiu demais para o meu aprendizado e para a construção do meu portfólio.
 - <a href="https://www.dio.me/" target="_blank">Digital Innovation One | DIO 🔗</a>
 
 ## 6️⃣ Licença
